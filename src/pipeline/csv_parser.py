@@ -1,1 +1,4 @@
 # Fast CSV streaming
+
+# Updated on 2025-03-13 - feat(pipeline): implement zero-copy CSV line streaming parser
+# Fast CSV streaming
