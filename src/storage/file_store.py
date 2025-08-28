@@ -8,3 +8,6 @@
 
 # Updated on 2025-08-25 - feat(storage): implement atomic file-backed persistent store with checksums
 # Atomic file store
+
+# Updated on 2025-08-28 - feat(storage): implement atomic file-backed persistent store with checksums
+# Atomic file store
