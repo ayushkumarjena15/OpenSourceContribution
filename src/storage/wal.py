@@ -17,3 +17,6 @@
 
 # Updated on 2025-11-16 - refactor(storage): implement log segment rotation and background compaction
 # Log compaction
+
+# Updated on 2025-11-27 - refactor(storage): implement log segment rotation and background compaction
+# Log compaction
