@@ -5,3 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 
 NexusCore is a high-performance open-source toolkit providing concurrency primitives, streaming pipelines, data structures, and developer utilities.
+
+# Updated on 2025-12-03 - docs: update README with v1.0.0 badges, benchmarks, and quickstart guide
+# NexusCore 1.0.0
+Ready for production use.
