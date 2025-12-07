@@ -5,3 +5,7 @@
 # Changelog
 
 ## [0.9.0] - 2025-12-01
+
+# Updated on 2025-12-07 - docs(changelog): finalize v1.0.0 release notes with full feature summary
+## [1.0.0] - 2025-12-28
+- General Availability release
