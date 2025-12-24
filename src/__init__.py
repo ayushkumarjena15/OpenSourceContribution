@@ -12,3 +12,6 @@ __version__ = '1.0.0-rc1'
 
 # Updated on 2025-12-18 - chore(release): bump package version to 1.0.0-rc1
 __version__ = '1.0.0-rc1'
+
+# Updated on 2025-12-24 - chore(release): bump package version to 1.0.0-rc1
+__version__ = '1.0.0-rc1'
